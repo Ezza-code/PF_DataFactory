@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ammosdatafactory"
 		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
 		"InputDB_accountKey": {
 			"value": ""
 		},
@@ -13,6 +16,9 @@
 		},
 		"Output_DB_accountKey": {
 			"value": ""
+		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0205-044034-3ovu162z"
 		},
 		"InputDB_properties_typeProperties_url": {
 			"value": "https://ammosdatastorage.dfs.core.windows.net/"
