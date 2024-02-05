@@ -1,0 +1,9 @@
+{
+	"name": "ammosdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4cd574c9-642e-4a58-a606-04479d0da276",
+		"tenantId": "facfc396-0870-48b8-8efc-6372fa1f822d"
+	}
+}
