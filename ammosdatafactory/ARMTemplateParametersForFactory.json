@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ammosdatafactory"
+		},
+		"InputDB_accountKey": {
+			"value": ""
+		},
+		"InputFilesCopy_DB_accountKey": {
+			"value": ""
+		},
+		"Output_DB_accountKey": {
+			"value": ""
+		},
+		"InputDB_properties_typeProperties_url": {
+			"value": "https://ammosdatastorage.dfs.core.windows.net/"
+		},
+		"InputFilesCopy_DB_properties_typeProperties_url": {
+			"value": "https://ammosdatastorage.dfs.core.windows.net/"
+		},
+		"Output_DB_properties_typeProperties_url": {
+			"value": "https://ammosdatastorage.dfs.core.windows.net/"
+		}
+	}
+}
